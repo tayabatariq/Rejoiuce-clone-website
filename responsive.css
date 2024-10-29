@@ -1,0 +1,48 @@
+@media (max-width:1115px) {
+
+
+    .page1-content h1 {
+        font-size: 28vw !important;
+        margin-top: 15vw !important;
+    }
+    .page5-text h1 {
+        font-size: 4vw !important;
+    }
+    
+.page6-btm {
+    height: 112vh !important;
+}
+
+    
+}
+
+@media (max-width:995px) {
+    .page1-content h1 {
+        font-size: 29vw !important;
+        margin-top: 18vw !important;
+    }
+  
+.page6-btm {
+    height: 100vh !important;
+}.imgdiv {
+    height: 70vh !important;
+  
+
+}
+
+.centernav {
+gap:.1rem;
+margin-left: 16vw !important
+;
+
+
+}
+.centernav a {
+
+    padding-bottom: .9vw;
+}
+
+
+
+    
+}
